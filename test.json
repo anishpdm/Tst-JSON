@@ -1,0 +1,32 @@
+[
+    {
+      "name":"Tom",
+      "profilePic":"https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+      "postImage":"https://t4.ftcdn.net/jpg/06/41/55/87/360_F_641558762_NSA5sf5mgLWZabgALXO7h1TsyTUUU6WV.jpg",
+      "location":"SBCE",
+      "likes":"35"
+    },
+
+    {
+      "name":"Anjali Raj",
+      "profilePic":"https://static.vecteezy.com/system/resources/previews/014/212/681/original/female-user-profile-avatar-is-a-woman-a-character-for-a-screen-saver-with-emotions-for-website-and-mobile-app-design-illustration-on-a-white-isolated-background-vector.jpg",
+      "postImage":"https://t3.ftcdn.net/jpg/04/02/08/38/360_F_402083813_4dLEweSrZCiooyhx4ihf5nLTNrRQuucp.jpg",
+      "location":"Noornad",
+      "likes":"435"
+    },
+    {
+      "name":"Mathew George",
+      "profilePic":"https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+      "postImage":"https://t4.ftcdn.net/jpg/06/41/55/87/360_F_641558762_NSA5sf5mgLWZabgALXO7h1TsyTUUU6WV.jpg",
+      "location":"Pandalam",
+      "likes":"5"
+    },
+    {
+      "name":"Abdul Rahuman",
+      "profilePic":"https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+      "postImage":"https://t4.ftcdn.net/jpg/06/41/55/87/360_F_641558762_NSA5sf5mgLWZabgALXO7h1TsyTUUU6WV.jpg",
+      "location":"Pandalam",
+      "likes":"50"
+    }
+
+  ]
